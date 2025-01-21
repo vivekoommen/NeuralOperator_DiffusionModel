@@ -103,5 +103,5 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 
 ## Acknowledgments
 
-- The Kolmogorov flow was simulated using the pseudo-spectral solver provided in [FNO's Repository](https://github.com/neuraloperator/physics_informed/blob/d1835d1e6ee9d7969455ceb36040389a23d04d85/solver/legacy_solver.py#L68)
+- The Kolmogorov flow was simulated using the pseudo-spectral solver provided in [FNO's Repository](https://github.com/neuraloperator/physics_informed/blob/d1835d1e6ee9d7969455ceb36040389a23d04d85/solver/legacy_solver.py#L68).
 - This repository builds upon the diffusion model implementation by [Phil Wang](https://github.com/lucidrains/denoising-diffusion-pytorch/tree/main/denoising_diffusion_pytorch).
