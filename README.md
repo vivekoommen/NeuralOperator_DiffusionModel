@@ -1,6 +1,6 @@
 # NO+DM
 
-This repository contains the code accompanying our paper, ["Integrating Neural Operators with Diffusion Models Improves Spectral Representation in Turbulence Modeling"](https://arxiv.org/pdf/2409.08477), accepted in *Proceedings of the Royal Society A*. Our work demonstrates how diffusion models can help mitigate the spectral bias suffered by neural operators. Below, you will find the structure, usage instructions, and dependencies for this repository.
+This repository contains the code accompanying our paper, ["Integrating Neural Operators with Diffusion Models Improves Spectral Representation in Turbulence Modeling"](https://arxiv.org/pdf/2409.08477). Our work demonstrates how diffusion models can help mitigate the spectral bias suffered by neural operators. Below, you will find the structure, usage instructions, and dependencies for this repository.
 
 ---
 
