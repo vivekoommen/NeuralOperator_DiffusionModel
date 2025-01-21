@@ -67,7 +67,7 @@ Each case folder contains a `data/` subdirectory with scripts for dataset prepar
    ```
 
 2. **Prepare Data for Diffusion Model:**
-   Open the Jupyter Notebook `no_postprocess.ipynb` in the same folder and execute it.
+   Run the Jupyter Notebook `no_postprocess.ipynb`.
 
 3. **Train the Diffusion Model:**
    Navigate to the `dm/` folder inside the case directory and run:
@@ -76,7 +76,7 @@ Each case folder contains a `data/` subdirectory with scripts for dataset prepar
    ```
 
 4. **Post-process Results:**
-   Open the Jupyter Notebook `dm_postprocess.ipynb` to generate figures and analyze results.
+   Run the Jupyter Notebook `dm_postprocess.ipynb` to generate figures.
 
 ---
 
