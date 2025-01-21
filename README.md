@@ -7,7 +7,7 @@ This repository contains the code accompanying our paper, ["Integrating Neural O
 ## Repository Structure
 
 - **`case_1_kolmogorov/`**: Contains code and data access instructions for the Kolmogorov flow case.
-- **`case_2_buoyancy/`**: Contains code and data access instructions for the buoyancy-driven smoke evolution case.
+- **`case_2_buoyancy/`**: Contains code and data access instructions for the buoyancy-driven flow case.
 - **`case_3_airfoil/`**: Contains code and data access instructions for the airfoil simulation case.
 - **`case_4_LES_jet/`**: Contains code and data access instructions for the turbulent subsonic jet case.
 - **`case_5_schlieren_jet/`**: Contains code and data access instructions for the schlieren turbulent jet visualization case.
