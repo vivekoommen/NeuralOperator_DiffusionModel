@@ -1,6 +1,6 @@
 # NO+DM
 
-This repository contains the code accompanying our paper, ["Integrating Neural Operators with Diffusion Models Improves Spectral Representation in Turbulence Modeling"](https://arxiv.org/pdf/2409.08477). Our work demonstrates how diffusion models can help mitigate the spectral bias suffered by neural operators. Below, you will find the structure, usage instructions, and dependencies for this repository.
+This repository contains the code accompanying our paper, ["Integrating Neural Operators with Diffusion Models Improves Spectral Representation in Turbulence Modeling"](https://arxiv.org/pdf/2409.08477). Our work demonstrates how diffusion models can help mitigate the spectral bias suffered by neural operators. Check out our ["project page"](https://vivekoommen.github.io/NO_DM/). Below, you will find the structure, usage instructions, and dependencies for this repository.
 
 ---
 
@@ -86,10 +86,14 @@ If you use this code, please cite our paper:
 
 ```bibtex
 @article{oommen2024integrating,
-  title={Integrating neural operators with diffusion models improves spectral representation in turbulence modeling},
-  author={Oommen, Vivek and Bora, Aniruddha and Zhang, Zhen and Karniadakis, George Em},
-  journal={arXiv preprint arXiv:2409.08477},
-  year={2024}
+  author = {Oommen, Vivek  and Bora, Aniruddha  and Zhang, Zhen  and Karniadakis, George Em },
+  title = {Integrating neural operators with diffusion models improves spectral representation in turbulence modelling},
+  journal = {Proceedings of the Royal Society A: Mathematical, Physical and Engineering Sciences},
+  volume = {481},
+  number = {2309},
+  pages = {20240819},
+  year = {2025},
+  doi = {10.1098/rspa.2024.0819}
 }
 ```
 
